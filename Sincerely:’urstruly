@@ -1,0 +1,16 @@
+curl --request GET 'https://WhatsApp.com/number_verification/validate?number=14158586273' \
+--header 'og1fwjlkoMP2xXu1Pq1CvYFpGtraV2Kr
+
+{
+    "valid": true,
+    "number": "13062094171",
+    "local_format": "3062094171",
+    "international_format": "+13062094171",
+    "country_prefix": "+1",
+    "country_code": "Canada",
+    "country_name": "Canada",
+    "location": "saskatchewan",
+    "carrier": "Telus",
+    "line_type": "mobile"
+}
+Copy
