@@ -9,7 +9,7 @@ curl --request GET 'https://WhatsApp.com/number_verification/validate?number=141
     "country_prefix": "+1",
     "country_code": "Canada",
     "country_name": "Canada",
-    "location": "saskatchewan",
+    "location": "iPhone",
     "carrier": "Telus",
     "line_type": "mobile"
 }
